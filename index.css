@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #5c84eb;
+  width: 250px;
+  height: 40px;
+  font-size: 13px;
+  color: white;
+}
+
+.opgg-button {
+  background-color: #5c84eb;
+  font-size: 23px;
+  font-weight: 770;
+  color: white;
+  border-width: 0;
+}
+
+.lolicon-img {
+  height: 250px;
+  width: 200px;
+}
